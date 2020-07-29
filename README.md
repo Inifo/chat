@@ -1,2 +1,4 @@
 # chat
 基于Springboot实现的一个社交网站，主要分为新闻与论坛两个模块
+使用的技术有Redis+Kafka+Elasticsearch
+前端使用Bootstrap+Thymeleaf模板
